@@ -1,7 +1,6 @@
 C:/
 Dataset/
 Dataset_old/
-Model/
 __pycache__/
 test/
 train_unet/
@@ -9,17 +8,4 @@ val/
 val_unet/
 .idea/
 .ipynb_checkpoints/
-
-C:
-Dataset
-Dataset_old
-Model
-__pycache__
-test
-train_unet
-val
-val_unet
-.idea
-.ipynb_checkpoints
-
 
